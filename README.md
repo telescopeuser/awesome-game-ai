@@ -4,9 +4,9 @@ A curated list of Game Artificial Intelligence (AI) courses, books, video lectur
 
 Contributions most welcome.
 
-![](https://storage.googleapis.com/deepmind-live-cms/documents/mini-games.gif)
+![https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/](https://storage.googleapis.com/deepmind-live-cms/documents/mini-games.gif)
 
-![](https://camo.githubusercontent.com/cc0b905be49ee21e5c5e6e7768eaccf5eb23bd61/68747470733a2f2f692e696d6775722e636f6d2f536254796d734f2e6a7067)
+![https://github.com/davechurchill/commandcenter](https://camo.githubusercontent.com/cc0b905be49ee21e5c5e6e7768eaccf5eb23bd61/68747470733a2f2f692e696d6775722e636f6d2f536254796d734f2e6a7067)
 
 ## Contents
 
