@@ -54,7 +54,7 @@ https://github.com/davechurchill/commandcenter
 
 ## Videos
 
-* [TBD](https://www.iss.nus.edu.sg/about-us/staff/detail/201/GU%20Zhan)
+* [DiDi: A Reinforcement Learning Agent](https://telescopeuser.wordpress.com/2018/08/20/didi-a-reinforcement-learning-agent/ "DiDi: A Reinforcement Learning Agent") - Reinforcement Learning in Daily Life
 
 ## Learning
 
