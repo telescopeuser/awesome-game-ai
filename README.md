@@ -84,6 +84,10 @@ https://github.com/davechurchill/commandcenter
 
 * [game-ai](https://github.com/topics/game-ai) - Github Topics: game-ai
 
+* [Awesome StarCraft AI](https://github.com/SKTBrain/awesome-starcraftAI)
+
+* [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
