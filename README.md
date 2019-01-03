@@ -54,7 +54,9 @@ https://github.com/davechurchill/commandcenter
 
 ## Videos
 
-* [DiDi: A Reinforcement Learning Agent](https://telescopeuser.wordpress.com/2018/08/20/didi-a-reinforcement-learning-agent/ "DiDi: A Reinforcement Learning Agent") - Reinforcement Learning in Daily Life
+* [Sporty software: AI learns to play table soccer](https://youtu.be/RSYshQdcjYM) - Table soccer robot
+* [A.I. Foosball: Humans v. Robots](https://www.youtube.com/watch?v=LgctE_DQpUY) - Table soccer robot
+* [DiDi: A Reinforcement Learning Agent](https://telescopeuser.wordpress.com/2018/08/20/didi-a-reinforcement-learning-agent/) - Reinforcement Learning in Daily Life
 
 ## Learning
 
@@ -83,9 +85,7 @@ https://github.com/davechurchill/commandcenter
 ## Misc
 
 * [game-ai](https://github.com/topics/game-ai) - Github Topics: game-ai
-
 * [Awesome StarCraft AI](https://github.com/SKTBrain/awesome-starcraftAI)
-
 * [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
 
 ## License
